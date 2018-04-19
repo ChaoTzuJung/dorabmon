@@ -6,6 +6,9 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
+  "engines": {
+    "node": "8.5.0"
+  },
   "dependencies": {
     "bottender": "0.14.33"
   },
