@@ -6,7 +6,7 @@ module.exports = async context => {
     // 取消就是把訂單裡面這個人的東西過濾掉
     context.setState({
       ...context.state,
-      訂單: context.state.orders.filter(order => order.userId !== userId),
+      orders: context.state.orders.filter(order => order.userId !== userId),
     });
     await context.replyText(`${displayName} 幫你取消囉!`);
   } else {

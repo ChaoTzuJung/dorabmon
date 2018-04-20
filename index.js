@@ -11,9 +11,9 @@ const bot = new LineBot({
 
 // 初始的 state
 bot.setInitialState({
-  開團中: false,
-  開團人: '',
-  訂單: [],
+  onThePlay: false,
+  playPerson: '',
+  orders: [],
 });
 
 bot.onEvent(handler);
