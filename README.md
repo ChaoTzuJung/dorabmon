@@ -38,8 +38,8 @@
 範例：
 
 ```
-我要紅茶拿鐵
-我也要鮮奶茶
+我要珠珠奶茶
+我也要抹茶拿鐵
 ```
 
 ### 取消訂單
@@ -55,7 +55,7 @@
 整個目錄結構大概是這樣：
 
 ```
-bottender-order-example/
+DOLABMON/
   actions/
   node_modules/
   index.js
