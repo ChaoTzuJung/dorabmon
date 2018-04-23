@@ -1,5 +1,9 @@
 # dorabmon
 
+## QR code of your bot
+
+![QR code](https://github.com/ChaoTzuJung/dorabmon/blob/master/image/QR%20code.png)
+
 ## 支援的指令
 
 ### 開團
