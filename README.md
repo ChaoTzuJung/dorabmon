@@ -2,9 +2,12 @@
 
 ## QR code of your bot
 
+![Demo](https://imgur.com/TSeXjUP.png)
+
 ![QR code](https://github.com/ChaoTzuJung/dorabmon/blob/master/image/QR%20code.png)
 
 ![Mockup](https://i.imgur.com/v6X0AHw.png)
+
 ## 支援的指令
 
 ### 開團
